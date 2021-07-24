@@ -1,0 +1,35 @@
+body{
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+.wrap{
+    width: 400px;
+    margin: 0 auto;
+}
+.size{
+    font-size: 30px;
+}
+#todo-item{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 200px;
+    height: 20px;
+}
+.wrap h1{
+    font-size: 45px;
+    color: white;
+}
+.addBtn{
+    font-size: 30px;
+    background-color: transparent;
+    border: none;
+}
+.deleteBtn{
+    border: none;
+    font-size: 30px;
+    background-color: transparent;
+}
